@@ -11,7 +11,7 @@ from tkinter import messagebox
 
 
 
-url="https://api.openweathermap.org/data/2.5/weather?q={}&appid=7287fc84c0d69ea2c54ab2c4df210874"
+url=""      # put weather api key
 
 
 
